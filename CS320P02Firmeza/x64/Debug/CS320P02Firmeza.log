@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\franc\OneDrive\Desktop\CS320P02Firmeza\CS320P02Firmeza\main.cpp(91,43): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\franc\OneDrive\Desktop\CS320P02Firmeza\CS320P02Firmeza\main.cpp(115,38): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\franc\OneDrive\Desktop\CS320P02Firmeza\CS320P02Firmeza\main.cpp(115,32): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\franc\OneDrive\Desktop\CS320P02Firmeza\CS320P02Firmeza\main.cpp(119,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\franc\OneDrive\Desktop\CS320P02Firmeza\CS320P02Firmeza\main.cpp(155,26): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  CS320P02Firmeza.vcxproj -> C:\Users\franc\OneDrive\Desktop\CS320P02Firmeza\x64\Debug\CS320P02Firmeza.exe

@@ -1,0 +1,5 @@
+Enter Filename: file25000.txt
+Closest points are: (8511.21, 6977.79) and (8510.59, 6977.86) with distance = 0.623939
+
+C:\Users\franc\OneDrive\Desktop\CS320P02Firmeza\x64\Debug\CS320P02Firmeza.exe (process 27240) exited with code 0 (0x0).
+Press any key to close this window . . .

@@ -1,0 +1,3 @@
+﻿  bruteForce.cpp
+C:\Users\franc\OneDrive\Desktop\CS320P02Firmeza\bruteForce\bruteForce.cpp(16,25): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  bruteForce.vcxproj -> C:\Users\franc\OneDrive\Desktop\CS320P02Firmeza\x64\Debug\bruteForce.exe

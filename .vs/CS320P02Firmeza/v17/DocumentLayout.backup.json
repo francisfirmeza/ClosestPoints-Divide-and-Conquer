@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Desktop\\CS320P02Firmeza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32E1CD7A-37CA-46E1-B183-36EAA05B9DC8}|CS320P02Firmeza\\CS320P02Firmeza.vcxproj|C:\\Users\\franc\\OneDrive\\Desktop\\CS320P02Firmeza\\CS320P02Firmeza\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32E1CD7A-37CA-46E1-B183-36EAA05B9DC8}|CS320P02Firmeza\\CS320P02Firmeza.vcxproj|solutionrelative:CS320P02Firmeza\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46E9DD2-CFFA-4128-AD82-54F8C406394F}|bruteForce\\bruteForce.vcxproj|C:\\Users\\franc\\OneDrive\\Desktop\\CS320P02Firmeza\\bruteForce\\bruteForce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A46E9DD2-CFFA-4128-AD82-54F8C406394F}|bruteForce\\bruteForce.vcxproj|solutionrelative:bruteForce\\bruteForce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3775FDEC-4492-480F-B73B-C8D98327908E}|generatePoints\\generatePoints.vcxproj|C:\\Users\\franc\\OneDrive\\Desktop\\CS320P02Firmeza\\generatePoints\\generatePoints.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3775FDEC-4492-480F-B73B-C8D98327908E}|generatePoints\\generatePoints.vcxproj|solutionrelative:generatePoints\\generatePoints.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bruteForce.cpp",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\CS320P02Firmeza\\bruteForce\\bruteForce.cpp",
+              "RelativeDocumentMoniker": "bruteForce\\bruteForce.cpp",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\CS320P02Firmeza\\bruteForce\\bruteForce.cpp",
+              "RelativeToolTip": "bruteForce\\bruteForce.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T20:49:45.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "generatePoints.cpp",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\CS320P02Firmeza\\generatePoints\\generatePoints.cpp",
+              "RelativeDocumentMoniker": "generatePoints\\generatePoints.cpp",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\CS320P02Firmeza\\generatePoints\\generatePoints.cpp",
+              "RelativeToolTip": "generatePoints\\generatePoints.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T20:49:15.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\CS320P02Firmeza\\CS320P02Firmeza\\main.cpp",
+              "RelativeDocumentMoniker": "CS320P02Firmeza\\main.cpp",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\CS320P02Firmeza\\CS320P02Firmeza\\main.cpp",
+              "RelativeToolTip": "CS320P02Firmeza\\main.cpp",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T20:47:36.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
